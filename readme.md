@@ -24,6 +24,6 @@
 20. Run the command **git commit -am** to update the local repository
 21. Run the command **git push** to communicate the latest changes to the remote repository.
 
-![NetworkDiagram](~/IH_Project1/NetworkDiagram.png)
+![NetworkDiagram](AlbertoCastellanos.github.com/IH_Project1/NetworkDiagram.png)
 
 
