@@ -7,4 +7,7 @@
 4. Using the command **nano readme.txt**, I created a new text file called readme.txt and modified its content.
 5. I created another file called "uniqueiteminmaster.txt" using the same method as above
 6. Once the files are created, I allowed git to track them by using the command **git add**
+7. In order to communicate the changes to git, I run the command **git commit -am**. The command **git status** will now reflect that git is up to date.
+8. 
+
 
