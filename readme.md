@@ -22,4 +22,10 @@
 18. An error message will prompt informing of the conflict in the readme.txt. The command **cat readme.txt** is used to show a comparison between the two readme.txt versions that are causing the conflict.
 19. Visual Studio Code should be used to modify the content of the readme.txt file in order to set the final version. Once the readme.txt is saved, the conflict will be solved and the branch merged.
 20. Run the command **git commit -am** to update the local repository
+
+
+![Diagram](/IH_Project1/NetworkDiagram.png)
+
 21. Run the command **git push** to communicate the latest changes to the remote repository.
+
+
